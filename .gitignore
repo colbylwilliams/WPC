@@ -228,3 +228,4 @@ old/*.cs
 local/TTTAttributedLabel.psd
 
 *.xam
+/Service/.vs/config
